@@ -1,4 +1,14 @@
 -------------------------------------------------------------------
+Mon Sep  7 09:17:50 UTC 2026 - Lubos Kocman <lubos.kocman@suse.com>
+
+- Add Immutable and Standard modes to Leap 16.1
+
+- Add NetworkManager-config-server to avoid probe DHCP over
+  all ethernet devices and ignore carrier. To be in sync with SLES
+
+- Add openSUSE License
+
+-------------------------------------------------------------------
 Mon Sep  7 09:13:23 UTC 2026 - Lubos Kocman <lubos.kocman@suse.com>
 
 - Drop Leap Micro 6.2 completely
